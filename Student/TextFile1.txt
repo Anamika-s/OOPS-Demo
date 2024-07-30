@@ -1,0 +1,64 @@
+﻿class is a blueprint based on whoch multiple objects
+of same type could be created
+
+Class is a user defined type
+Date Type > 
+which tells that what type of value can be stored in a variable
+Data types indicates 2 things
+
+  1. what value can be stored
+  2. what functions are allowed
+     but where? on variable
+
+     int > store numbers + - min max avg
+     string > store characters , strcmp , length
+     class student
+     { 
+     int rn;
+     string name;
+     void Get() {}
+     void Display() {}
+     }
+     int num1;
+
+     Student student; // dec
+     student = new Student(); // init
+
+
+     }
+
+     class 
+
+object instance of class
+
+encapsulation  > hiding the details which are not needed by user
+
+abstraction >  showing the details which are needed by user
+
+we acheive them bu using access specifiers
+
+by def class is internal 
+by def class members are private
+
+access specifiers 
+1. private  > cannot access them outside the class
+2. public > can access them outside the class
+3. internal > can access them within the assembly/project
+
+
+4. protected > in inheritance
+5. internal protected
+
+data hiding > hide data
+
+
+
+
+
+
+
+
+
+
+
+
